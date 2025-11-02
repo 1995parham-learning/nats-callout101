@@ -7,7 +7,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/snapp-incubator/nats-callout101/internal/authenticator"
+	"github.com/1995parham-learning/nats-callout101/internal/authenticator"
 )
 
 const (
